@@ -6,7 +6,13 @@ This repository provides a Flask-based web application for managing license plat
 
 ## Prerequisites
 
-1.  Create a folder in `../share/alpr` for the storage of plates.yaml
+1. Create a folder in `../share/alpr` for the storage of plates.yaml
+
+2.  Create a folder in
+
+    ```
+    /config/images/codeproject_ai_alpr/
+    ```
 
 **Environment Variables**:
 
